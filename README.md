@@ -1,2 +1,2 @@
-It's Mobile Controlled Bluetooth Car(MCBC). 
+It's Mobile Controlled Bluetooth Car. 
 Language/Tools used : Arduino & processing(Java framework)
